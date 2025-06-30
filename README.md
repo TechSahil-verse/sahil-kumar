@@ -1,4 +1,4 @@
 # practice repo
-Its my first repository
+Its my first repositories
 <br>
 author name - sahil kumar gupta
